@@ -1,0 +1,12 @@
+.highlight {
+    background-color: #87CEFA;
+}
+
+.MuiTableRow-root .handCursor {
+    cursor: pointer;
+    color: rgb(19, 150, 231);
+}
+
+.userTitle {
+    text-align: center;
+}
